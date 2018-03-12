@@ -1,7 +1,7 @@
 #!/bin/bash
 
 apt-get update
-apt-get install -y curl git python
+apt-get install -y curl git
 
 curl -sL https://deb.nodesource.com/setup_8.x | bash -
 
