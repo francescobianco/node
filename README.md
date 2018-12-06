@@ -2,5 +2,5 @@
 
 ## node 8.0
 ```bash
-$ wget --no-check-certificate -O - https://rawgit.com/javanile/node/master/setup_8.x | bash
+$ wget --no-check-certificate -O - https://cdn.jsdelivr.net/gh/javanile/node/setup_8.x | bash
 ```
